@@ -26,5 +26,3 @@ for i in range(9) :
       list.append(b)
 
 window.mainloop()
-
-
